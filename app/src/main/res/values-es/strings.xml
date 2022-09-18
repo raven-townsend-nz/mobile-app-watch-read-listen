@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Medio</string>
+    <string name="watch_list">Reloj</string>
+    <string name="read_list">Leer</string>
+    <string name="listen_list">Escuchar</string>
+    <string name="platform">Emisión en streaming:\u0020</string>
+    <string name="artist">Artista:\u0020</string>
+    <string name="type">Escribe:\u0020</string>
+    <string name="name">El título:\u0020</string>
+    <string name="recommended_by">Recomendado por:\u0020</string>
+    <string name="create_watchable_title">Añadir a lista de seguimiento</string>
+    <string name="create_listenable_title">Agregar a la lista de escucha</string>
+    <string name="create_readable_title">Agregar a la lista de lectura</string>
+    <string name="save">Ahorrar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="share">Cuota</string>
+    <string name="share_message_start">He añadido\u0020</string>
+    <string name="share_message_watch">\u0020a mi lista de seguimiento, ¡tú también deberías hacerlo! Puedes verlo en\u0020</string>
+    <string name="share_message_listen">\u0020a mi lista de escucha, ¡tú también deberías hacerlo! El artista es\u0020</string>
+    <string name="share_message_read">\u0020a mi lista de lectura, ¡tú también deberías hacerlo! es un\u0020</string>
+    <string name="create_watchable_needs_name">Debe ingresar un el título para agregar a su lista de seguimiento</string>
+    <string name="create_listenable_needs_name">Debe ingresar un el título para agregar a su lista de escucha</string>
+    <string name="create_readable_needs_name">Debe ingresar un el título para agregar a su lista de lectura</string>
+</resources>

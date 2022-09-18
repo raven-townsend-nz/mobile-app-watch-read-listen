@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Medium</string>
+    <string name="watch_list">Watch</string>
+    <string name="read_list">Read</string>
+    <string name="listen_list">Listen</string>
+    <string name="platform">Platform:\u0020</string>
+    <string name="artist">Artist:\u0020</string>
+    <string name="type">Type:\u0020</string>
+    <string name="name">Name:\u0020</string>
+    <string name="recommended_by">Recommended By:\u0020</string>
+    <string name="create_watchable_title">Add To Watch List</string>
+    <string name="create_listenable_title">Add To Listen List</string>
+    <string name="create_readable_title">Add To Read List</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="share_message_start">I\'ve added\u0020</string>
+    <string name="share_message_watch">\u0020to my watch list, you should too! You can watch it on\u0020</string>
+    <string name="share_message_listen">\u0020to my listen list, you should too! The artist is\u0020</string>
+    <string name="share_message_read">\u0020to my read list, you should too! It is a\u0020</string>
+    <string name="create_watchable_needs_name">You must enter a name to add to your watch list</string>
+    <string name="create_listenable_needs_name">You must enter a name to add to your listen list</string>
+    <string name="create_readable_needs_name">You must enter a name to add to your read list</string>
+</resources>
